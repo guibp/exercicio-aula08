@@ -18,4 +18,10 @@ Mais uma vez:
 2 * 2
 ```
 
+Agora outra:
+```{r}
+4 / 2
+```
+
+
 Parabéns R.
