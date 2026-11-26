@@ -1,0 +1,21 @@
+---
+title: "exercicio-aula08"
+format: html
+editor: visual
+---
+
+## Exercicio da aula 08
+
+Vamos ver o R fazendo contas básicas:
+
+```{r}
+1 + 1
+```
+
+Mais uma vez:
+
+```{r}
+2 * 2
+```
+
+Parabéns R.
